@@ -1,6 +1,6 @@
 {
   "name": "base64-blob-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "  Utility function to change base4url-blob-file, easing dev exp -- KIHs0",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
