@@ -1,0 +1,21 @@
+node_modules/
+src/
+.idea/
+.vscode/
+*.log
+*.ts
+*.map
+*.iml
+
+# Build config
+tsconfig*.json
+tsconfig.cjs.json
+tsconfig.esm.json
+
+# Test files
+test/
+*.test.ts
+*.test.js
+
+# Misc
+package-lock.json
